@@ -1,3 +1,0 @@
-GameProject
-===========
-Hello World
